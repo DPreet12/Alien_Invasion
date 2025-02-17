@@ -2,7 +2,7 @@ import pygame
 
 class Character:
     """A class a to manage the character"""
-
+    
     def __init__(self, ai_character):
         """Initialize the game characterand set its starting position"""
 
